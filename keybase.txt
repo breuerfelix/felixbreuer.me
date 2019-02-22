@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/felixbreuer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://felixbreuer.me
+  * I am felixbreuer (https://keybase.io/felixbreuer) on keybase.
+  * I have a public key ASAmTUqDAcRiOiOZTIXtRLRhTloUbLntsS9pqD4xKEuNZAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120264d4a8301c4623a23994c85ed44b4614e5a146cb9edb12f69a83e31284b8d640a",
+      "host": "keybase.io",
+      "kid": "0120264d4a8301c4623a23994c85ed44b4614e5a146cb9edb12f69a83e31284b8d640a",
+      "uid": "2aada274cc9dcbec3cfad88007668919",
+      "username": "felixbreuer"
+    },
+    "merkle_root": {
+      "ctime": 1550848149,
+      "hash": "53b605428022386fede7a381f45005d0c6eb1d32cd2c718d8d1f5a1a26c1e7d262f4d8594761d34c6158674e85f0118cc0a9903816d4a3c53ab752626eefc9bc",
+      "hash_meta": "85408d1b91b4a1f38f0ca961627ede476432cdf592e6c4e25942ee11cdb57be2",
+      "seqno": 4812013
+    },
+    "service": {
+      "entropy": "/sWHUZjct0rlmLRfKFBOHhyK",
+      "hostname": "felixbreuer.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1550848158,
+  "expire_in": 504576000,
+  "prev": "fae297ef534c5a39a6a7b2b3c9cdb4c8327c51322cd97a488ad11f2c5f9d0f7d",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJk1KgwHEYjojmUyF7US0YU5aFGy57bEvaag+MShLjWQKp3BheWxvYWTESpcCBcQg+uKX71NMWjmmp7Kzyc20yDJ8UTIs2XpIitEfLF+dD33EILv7V2Ny2429ASoBD8v+rbPzGHLriqFikENqbzXueDuCAgHCo3NpZ8RAFTnPrtCZA5LFYjjH+hXMSeFWKl+FG7nmbxhFuvcr+IIETniQ959meynUkv6uVCwHRppR4W5EBu54yW3DG+b+D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFa3R+ANwpQXEQWILpRcajvVyKBIqYCbS0SFLcdcbEweo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/felixbreuer
+
+==================================================================
