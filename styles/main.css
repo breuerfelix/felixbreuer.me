@@ -1,0 +1,34 @@
+/* @styled-jsx=global */
+:root {
+    --dark: #222;
+    --gray: #999;
+    --font: #555;
+    --border: #ccc;
+    --border-hover: #666;
+}
+
+body {
+    background-color: white;
+    color: var(--font);
+    font-family: 'Lato', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: var(--font);
+}
+
+a:hover {
+    color: var(--dark);
+}
+
+.row, .row > div {
+    margin: 0;
+    padding: 0;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

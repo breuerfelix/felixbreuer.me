@@ -1,0 +1,54 @@
+env:
+  node: true
+  es6: true
+  browser: true
+plugins:
+  - 'react'
+extends:
+  - 'eslint:recommended'
+  - 'plugin:react/recommended'
+parser: 'babel-eslint'
+settings:
+  react:
+    pragma: h
+parserOptions:
+  ecmaVersion: 2018
+  sourceType: module
+  ecmaFeatures:
+    jsx: true
+    legacyDecorators: true
+rules:
+  'indent':
+    - error
+    - tab
+    - SwitchCase: 1
+  'linebreak-style':
+    - error
+    - unix
+  'quotes':
+    - error
+    - single
+  'semi':
+    - error
+    - always
+  'no-unused-vars': off
+  'no-console': off
+  'keyword-spacing':
+    - error
+  'no-mixed-spaces-and-tabs':
+    - error
+  'object-curly-spacing':
+    - error
+    - always
+  'no-trailing-spaces':
+    - error
+  'react/jsx-curly-spacing':
+    - 2
+    - when: 'always'
+      spacing:
+        objectLiterals: 'never'
+  'react/prop-types': off
+  'react/no-deprecated': off
+  'react/jsx-key': warn
+  'react/react-in-jsx-scope': off
+  'react/display-name': off

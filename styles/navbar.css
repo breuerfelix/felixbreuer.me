@@ -1,0 +1,14 @@
+.logo {
+	background-color: var(--dark);
+	color: white;
+	padding: 7px 30px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	font-size: 125%;
+}
+
+.subtitle {
+	color: var(--gray);
+	margin-bottom: 30px;
+	font-size: 85%;
+}
