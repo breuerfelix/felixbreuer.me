@@ -1,10 +1,10 @@
-/* @styled-jsx=global */
 :root {
     --dark: #222;
     --gray: #999;
     --font: #555;
     --border: #ccc;
-    --border-hover: #666;
+	--border-hover: #666;
+	--highlight: #FF0055;
 }
 
 body {
@@ -20,11 +20,6 @@ a {
 
 a:hover {
     color: var(--dark);
-}
-
-.row, .row > div {
-    margin: 0;
-    padding: 0;
 }
 
 .center {
